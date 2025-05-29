@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./malydev.png" alt="malydev logo" width="200" />
+  <img src="./malydev-min.png" alt="malydev logo" width="200" />
 </p>
 <h1 align="center">Hi there, I'm <strong>malydev</strong> 👋</h1>
 <p align="center">
