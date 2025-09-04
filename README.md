@@ -62,7 +62,7 @@ While this grows, feel free to check out [my dev roots at `Mlipa`](https://githu
 
 ## 📫 Connect
 
-- 🐦 Twitter/X: [@malydev](https://twitter.com/malydev) *(if active)*
+- 🐦 Twitter/X: [@malydev](https://twitter.com/maly_dev) *(if active)*
 - 🌐 Website: `coming soon...`
 
 ---
