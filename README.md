@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm malydev</h1>
 <p align="center">
-  <a href="https://github.com/Mlipa">
+  <a href="https://github.com/malydev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Systems+Engineer+%F0%9F%93%96;Mobile+%2B+Web+Developer+%F0%9F%94%A5;Linux+User+%F0%9F%90%BB;Open+Source+Fan;Learning+and+Building+Always+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
@@ -56,18 +56,18 @@
 
 ## 📫 Connect
 
-- 🐦 Twitter/X: [@malydev](https://twitter.com/maly_dev) *(if active)*
-- 🌐 Website: `coming soon...`
+- 🐦 Twitter/X: [@malydev](https://x.com/maly_dev) *(if active)*
+- 🌐 Website: [malydev](https://maly.pages.dev/) *(if active)*
 
 <details>
   <summary>📊 GitHub Stats</summary>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mlipa&show_icons=true&theme=tokyonight&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=malydev&show_icons=true&theme=tokyonight&count_private=true" />
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mlipa&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malydev&theme=tokyonight" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mlipa&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malydev&layout=compact&theme=tokyonight" />
   </div>
 </details>
 
