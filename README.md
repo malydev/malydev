@@ -58,17 +58,3 @@
 
 - 🐦 Twitter/X: [@malydev](https://x.com/maly_dev) *(if active)*
 - 🌐 Website: [malydev](https://maly.pages.dev/) *(if active)*
-
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=malydev&show_icons=true&theme=tokyonight&count_private=true" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malydev&theme=tokyonight" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malydev&layout=compact&theme=tokyonight" />
-  </div>
-</details>
-
-
